@@ -1,4 +1,4 @@
-package past.project.jdbcReview.dao.impl;
+package past.project.jdbcReview.test;
 
 import java.util.ArrayList;
 import java.util.Random;
@@ -7,6 +7,7 @@ import org.junit.Test;
 
 import past.project.jdbcReview.bean.User;
 import past.project.jdbcReview.dao.*;
+import past.project.jdbcReview.dao.impl.UserDaoImpl;
 
 public class UserTest {
 
